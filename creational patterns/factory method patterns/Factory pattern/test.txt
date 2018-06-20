@@ -1,0 +1,7 @@
+
+factory pattern is nothing but keeping business logic of creation of a particular object.
+
+factory pattern defines an interface for creating an object but let's sub-classes decide which class can instantiate.
+
+abstract factory method provides an interface for crating family or related object with out specifying the concrete class .
+

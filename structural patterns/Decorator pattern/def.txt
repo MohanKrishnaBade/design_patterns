@@ -1,0 +1,1 @@
+decorator pattern attaches additional responsibility to an object dynamically.they provide flexible alternatives to subclassing.
